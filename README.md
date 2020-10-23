@@ -1,4 +1,4 @@
-### 👋
+Practicing the art of moving through time.
 
 <!--
 **cjfinnell/cjfinnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
